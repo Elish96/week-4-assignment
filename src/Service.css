@@ -1,0 +1,47 @@
+.service-container{
+    display:flex;
+    flex-direction: column;
+    width:100%;
+}
+.main-card{
+    width:80%;
+    margin:0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(209, 225, 253);
+}
+.v-services{
+    margin:0 auto;
+    width:33.30%;
+    /* background-color: coral; */
+}
+
+img{
+    width:90%; 
+    height: 90%;  
+    margin: 0 auto;
+}
+.images{
+    width: 70%;
+    margin: 0 auto;
+    /* background-color: darkblue; */
+
+}
+
+.block{
+    margin: 2rem 3rem;
+    text-align: center;
+}
+
+.purchase{
+    flex-direction: column;
+    background-color:rgb(75,75,231);
+    width:8rem;
+    margin:0 auto;
+    color:white;
+    padding: 1.3rem;
+    font-weight: 500;
+    border-radius: 0.5rem;
+    text-align: center;
+}
+

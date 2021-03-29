@@ -1,0 +1,63 @@
+.special {
+  width: 100%;
+}
+
+.specialty {
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 4rem;
+  margin-top: 2em;
+  font-size: 1.25rem;
+}
+.cad {
+  font-size: 2.5rem;
+}
+
+.s-cad {
+  padding-bottom: 3rem;
+  /* margin-bottom: 2rem; */
+}
+.spec {
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.transact-main-card {
+  width: 100%;
+}
+.sibling-card {
+  height: 100%;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.blue-card {
+  width: 85%;
+  /* height: 100vh; */
+  background-color: rgb(65, 84, 250);
+  border-radius: 1.3rem;
+  margin-top: 4rem;
+  margin: 0 auto;
+  display: flex;
+  text-align: center;
+}
+
+.card {
+  width: 30.3%;
+  margin: 0rem 2rem 4rem 0;
+  color: white;
+  font-weight: 200;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sell {
+  margin-top: 2rem;
+}
+.img-cd {
+  width: 80%;
+}
+.card-1 {
+  color: white;
+  font-weight: 900;
+}
